@@ -168,8 +168,9 @@ form span {
   color: #ce5504;
   font-size: 20px;
 }
-form p {
-  color: #2e2e2e;
+
+.pc {
+  color: #3d3d3d;
 }
 
 .coment {
